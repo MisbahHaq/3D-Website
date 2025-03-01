@@ -1,6 +1,6 @@
 {
-    "name": "useful",
-    "short_name": "useful",
+    "name": "api",
+    "short_name": "api",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
