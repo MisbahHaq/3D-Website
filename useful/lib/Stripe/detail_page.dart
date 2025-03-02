@@ -1,0 +1,3 @@
+StripeService.instance.makePayment();
+                              
+                             
