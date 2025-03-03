@@ -22,11 +22,18 @@ body {
     width: 320px;
     background-color: #fff;
     padding: 30px;
+    text-align: center;
 }
 
 #card img {
-    height: 50%;
+    height: 55%;
     width: 100%;
     object-fit: cover;
     object-position: center;
+    border-radius: 10px;
+}
+
+#card h1 {
+    font-size: 25px;
+    margin: 10 0;
 }
