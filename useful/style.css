@@ -2,7 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: 'Gilroy';
+    font-family: 'Helvetica';
 }
 
 html, body {
@@ -36,4 +36,9 @@ body {
 #card h1 {
     font-size: 25px;
     margin: 10 0;
+}
+
+#card h5{
+    font-size: 25px;
+    color: red;
 }
