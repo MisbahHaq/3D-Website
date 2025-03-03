@@ -17,7 +17,8 @@ body {
     background-color: cornflowerblue;
 }
 #card {
-    height: 400px;
-    width: 400px;
+    border-radius: 10px;
+    height: 450px;
+    width: 320px;
     background-color: #fff;
 }
