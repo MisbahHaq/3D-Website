@@ -10,6 +10,11 @@ html, body {
     width: 100%;
 }
 
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
 #card {
     height: 400px;
     width: 400px;
